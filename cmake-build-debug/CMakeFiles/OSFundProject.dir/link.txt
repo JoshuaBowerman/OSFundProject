@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/OSFundProject.dir/main.c.o  -o OSFundProject.exe -Wl,--out-implib,libOSFundProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

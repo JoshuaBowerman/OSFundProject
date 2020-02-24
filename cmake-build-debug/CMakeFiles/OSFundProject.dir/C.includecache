@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Josh/CLionProjects/OSFundProject/globals.h
+stdint.h
+-
+stdio.h
+-
+macros.h
+/cygdrive/c/Users/Josh/CLionProjects/OSFundProject/macros.h
+
+/cygdrive/c/Users/Josh/CLionProjects/OSFundProject/macros.h
+
+/cygdrive/c/Users/Josh/CLionProjects/OSFundProject/main.c
+globals.h
+/cygdrive/c/Users/Josh/CLionProjects/OSFundProject/globals.h
+stdio.h
+-
+stdint.h
+-
+unistd.h
+-
+macros.h
+/cygdrive/c/Users/Josh/CLionProjects/OSFundProject/macros.h
+ptable.h
+/cygdrive/c/Users/Josh/CLionProjects/OSFundProject/ptable.h
+stdlib.h
+-
+
+/cygdrive/c/Users/Josh/CLionProjects/OSFundProject/ptable.h
+macros.h
+/cygdrive/c/Users/Josh/CLionProjects/OSFundProject/macros.h
+stdint.h
+-
+stdlib.h
+-
+globals.h
+/cygdrive/c/Users/Josh/CLionProjects/OSFundProject/globals.h
+
